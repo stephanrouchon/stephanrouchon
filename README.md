@@ -2,10 +2,10 @@
 <h3 align="center">je suis un développeur python junior</h3>
 
 <p>après une première carrière de comptable et d'accompagnant à la création d'entreprise, je me suis réorienté vers le dev'. </p>
+<p> j'habite près de Lyon</p>
+<p> je suis actuellement en formation chez openclassrooms : developpeur d'application python</p>  
 
-- 🔭 I’m currently working on **Application web LITRevu**
-
-- 🌱 I’m currently learning ** Python, Django, Javascript**
+- 🔭 Je suis actuellement en train de developper **Une application web LITRevu avec Django**
 
 - 📫 How to reach me **stephanrouchon@gmail.com**
 
