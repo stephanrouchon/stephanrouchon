@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Application web LITRevu**
 
-- 🌱 I’m currently learning **Django, Javascript**
-
-- 👨‍💻 All of my projects are available at [on work](on work)
+- 🌱 I’m currently learning ** Python, Django, Javascript**
 
 - 📫 How to reach me **stephanrouchon@gmail.com**
 
