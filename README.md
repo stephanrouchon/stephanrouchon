@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Bonjour, je suis Stéphan</h1>
-<h3 align="center">je suis un développeur python junior</h3>
+<h1 align="center"> 👋 Bonjour, je suis Stéphan</h1>
+<h3 align="center">je suis un développeur python</h3>
 
 <p>après une première carrière de comptable et d'accompagnant à la création d'entreprise, je me suis réorienté vers le dev'. </p>
 <p> j'habite près de Lyon</p>
