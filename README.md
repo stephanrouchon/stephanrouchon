@@ -3,13 +3,13 @@
 
 <p>après une première carrière de comptable et d'accompagnant à la création d'entreprise, je me suis réorienté vers le dev'. </p>
 <p> j'habite près de Lyon</p>
-<p> je suis actuellement en formation chez openclassrooms : developpeur d'application python</p>  
+<p> je suis actuellement en formation chez openclassrooms : developpeur d'application Python</p>  
 
 - 🔭 Je suis actuellement en train de developper **Une application web LITRevu avec Django**
 
-- 📫 How to reach me **stephanrouchon@gmail.com**
+- 📫 vous pouvez me joindre : **stephanrouchon@gmail.com**
 
-- ⚡ Fun fact **love to run !**
+- ⚡ Fun fact **i'm a runner !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
