@@ -1,9 +1,11 @@
-<h1 align="center"> 👋 Bonjour, je suis Stéphan</h1>
-<h3 align="center">je suis un développeur python</h3>
+<h1 align="center"> 👋 Bonjour, mon prénom est Stéphan</h1>
+<h3 align="center">je suis actuellement en formation de développeur d'application python</h3>
 
-<p>après une première carrière de comptable et d'accompagnant à la création d'entreprise, je me suis réorienté vers le dev'. </p>
-<p> j'habite près de Lyon</p>
-<p> je suis actuellement en formation chez openclassrooms : developpeur d'application Python</p>  
+<p> J'ai eu une première approche de la programation très jeune (vers mes 12 ans), l'envie de construire des solutions aux problèmes auxquels je suis confrontés à toujours été moteur pour moi<\p>
+<p> Après une première carrière de comptable et d'accompagnant à la création d'entreprise, je me suis réorienté vers le dev'. <br> Pendant cette première partie de ma carrière professionnelle, 
+  j'ai developpé des solutions (génération d'écritures comptables, base de données pour gerer les élements variables de payes,...). L'envie de consacrer mon activité aux developpements d'outils a grandit d'annéee en année</p>
+<p> j'habite près de Lyon. </p>
+<p> je suis actuellement en formation chez openclassroom : developpeur d'application Python</p>  
 
 - 🔭 Je suis actuellement en train de developper **Une application web LITRevu avec Django**
 
