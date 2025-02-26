@@ -1,15 +1,11 @@
-<h1> 👋 Bonjour, je suis Stéphan</h1>
+<h1> 👋 Bonjour, je suis Stéphan Rouchon</h1>
 <h3> je suis actuellement en formation de développeur d'application Python</h3>
 
-<p> J'ai eu une première approche de la programmation très jeune (vers mes 12 ans), l'envie de construire des solutions aux problèmes auxquels je me suis confronté à toujours été moteur pour moi.
-<p> Après une première carrière de comptable et d'accompagnant à la création d'entreprise, je me suis réorienté vers le dev'. <br> Pendant cette première partie de ma carrière professionnelle, 
-  j'ai développé des solutions (génération d'écritures comptables, base de données pour gérer les éléments variables de paie,...). L'envie de consacrer mon activité aux développements d'outils a grandi d'année en année</p>
-<p> J'habite près de Lyon. </p>
-<p> je suis actuellement en formation chez openclassroom : développeur d'application Python</p>  
+<p>Je suis un développeur d’applications Python passionné par la création de solutions logicielles performantes et adaptées aux besoins des entreprises. Mon parcours atypique me permet d’apporter une approche unique au développement : avant de plonger dans le monde du code, j’ai eu une première carrière en comptabilité et dans les coopératives d’activités.</p>
 
-- 🔭 Je suis actuellement en train de developper **Une application web LITRevu avec Django**
+- 🔭 Je suis actuellement en train de developper **Une application web qui  avec Django**
 
-- 📫 vous pouvez me joindre : **stephanrouchon@gmail.com**
+- 📫 vous pouvez me joindre : **contact@stephanrouchon.fr**
 
 - ⚡ Fun fact **i'm a runner !**
 
