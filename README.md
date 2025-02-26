@@ -1,5 +1,5 @@
 <h1> 👋 Bonjour, je suis Stéphan Rouchon</h1>
-<h3> je suis actuellement en formation de développeur d'application Python</h3>
+<h3> Je suis actuellement en formation de développeur d'application Python</h3>
 
 <p>Je suis un développeur d’applications Python passionné par la création de solutions logicielles performantes et adaptées aux besoins des entreprises. Mon parcours atypique me permet d’apporter une approche unique au développement : avant de plonger dans le monde du code, j’ai eu une première carrière en comptabilité et dans les coopératives d’activités.</p>
 
