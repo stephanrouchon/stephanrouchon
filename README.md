@@ -1,11 +1,19 @@
-<h1> 👋 Bonjour, je suis Stéphan Rouchon</h1>
-<h3> Je suis actuellement en formation de développeur d'application Python</h3>
+<h1> 👋 Bonjour,</h1>
 
-<p>Je suis un développeur d’applications Python passionné par la création de solutions logicielles performantes et adaptées aux besoins des entreprises. Mon parcours atypique me permet d’apporter une approche unique au développement : avant de plonger dans le monde du code, j’ai eu une première carrière en comptabilité et dans les coopératives d’activités.</p>
+<p>Je m'appelle Stéphan Rouchon</p>
+<h3> Je viens de terminer une formation de développeur d'application Python</h3>
 
-- 🔭 Je suis actuellement en train de developper **Une application web qui permettra à des lecteurs de partager leurs avis sur des livres ou revues. l'application est développée avec Django**
+<p>Je suis upassionné par la création de solutions logicielles performantes et adaptées aux besoins des entreprises. Mon parcours atypique me permet d’apporter une approche unique au développement : avant de plonger dans le monde du code, j’ai eu une première carrière en comptabilité notamment dans les coopératives d’activités.</p>
+
+- 🔭 Je suis actuellement en train de developper **Une application web qui permettra de gerer l'activité d'une coopérative d'activités:
+  * gestion de ses membres
+  * suivi du parcours
+
+   un crm qui permettra de faciliter la vie de la coop et des ses membres !
 
 - 📫 vous pouvez me joindre : **contact@stephanrouchon.fr**
+
+  
 
 - ⚡ Fun fact **Je prépare mon second marathon ! et je casse les oreilles de ma famille avec ma guitare **
 
