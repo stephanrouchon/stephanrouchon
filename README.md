@@ -14,7 +14,7 @@
 
   
 
-- ⚡ Fun fact **Je prépare mon second marathon ! et je casse les oreilles de ma famille avec ma guitare **
+- ⚡ Fun fact **je casse les oreilles de ma famille avec ma guitare (pourtant je fais de mon mieux) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
