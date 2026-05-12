@@ -2,7 +2,7 @@
 
 <p>Moi c'est Stéphan</p>
 
-<p>Je suis passionné par la création de solutions logiciels performantes et adaptées aux besoins des entreprises. Mon parcours atypique me permet d’apporter une approche unique au développement : avant de plonger dans le monde du code, j’ai eu une première carrière en comptabilité notamment en coopératives d’activités.</p>
+<p>Mon crédo : la création de solutions logiciels performantes et adaptées aux besoins des entreprises. Mon parcours atypique me permet d’apporter une approche unique au développement : avant de plonger dans le monde du code, j’ai eu une première carrière en comptabilité notamment en coopératives d’activités.</p>
 
 - 🔭 Je suis actuellement en train de developper **Une application web qui permettra de gerer l'activité d'une coopérative d'activités:
   * gestion de ses membres
