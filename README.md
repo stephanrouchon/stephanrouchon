@@ -1,6 +1,6 @@
 <h1> 👋 Bonjour,</h1>
 
-<p>Je m'appelle Stéphan Rouchon</p>
+<p>Moi c'est Stéphan</p>
 
 <p>Je suis passionné par la création de solutions logiciels performantes et adaptées aux besoins des entreprises. Mon parcours atypique me permet d’apporter une approche unique au développement : avant de plonger dans le monde du code, j’ai eu une première carrière en comptabilité notamment en coopératives d’activités.</p>
 
