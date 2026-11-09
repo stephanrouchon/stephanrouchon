@@ -2,13 +2,7 @@
 
 <p> Je suis Stéphan</p>
 
-<p>Creée des solutions performantes et adaptées aux besoins des entreprises. Ma double compétence de développeur et de comptable me permet de mieux comprendre vos besoins pour faciliter votre back office.</p>
-
-- 🔭 Je suis actuellement en train de developper **Une application web qui permettra de gerer l'activité d'une coopérative d'activités:
-  * gestion de ses membres
-  * suivi du parcours
-
-   un crm qui permettra de faciliter la vie de la coop et des ses membres !
+<p>Je conçois et développe des solutions performantes, adaptées aux besoins des entreprises. Ma double expérience en développement et en comptabilité m’aide à comprendre vos besoins et à simplifier votre back-office</p>
 
 - 📫 vous pouvez me joindre : **contact@stephanrouchon.fr**
 
